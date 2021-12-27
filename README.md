@@ -6,7 +6,7 @@ Your challenge is to build out this profile card component and get it looking as
 ![desktop-design](images/desktop-design.jpg)
 ## Preview :eyes:
 ### Link
-- Live Site URL: [Order summary]
+- Live Site URL: [Order summary](https://thamarard.github.io/order-summary/)
 ## My process
 ### Built with
 - Semantic HTML5 markup
